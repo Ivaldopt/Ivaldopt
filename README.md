@@ -1,4 +1,4 @@
-### Olá 👋 mMe chamo Ivaldo sou formado em design gráfico e a 6 meses resolvi migrar para área de programação, comecei com Python e foi amor ao primeiro código mas depois de muitos estudos acabeei criando um App mas percebidopercebi  quee amo 
+### Olá 👋
 
 <!--
 **Ivaldopt/Ivaldopt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
