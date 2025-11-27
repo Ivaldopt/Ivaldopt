@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou [Seu Nome]  
 
-![Banner de boas-vindas]([https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDd3aDJtbzZpazM0cTJld3hxMTloM2doZWhsZWx3b281bDVubmRuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWD3CtcudWL28/giphy.gif))  
+![Banner de boas-vindas]([https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDd3aDJtbzZpazM0cTJld3hxMTloM2doZWhsZWx3b281bDVubmRuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWD3CtcudWL28/giphy.gif])  
 
 Sou **designer e programador fullstack**, apaixonado por criar produtos digitais modernos e funcionais. 💻✨  
 Transformo ideias em **sites, e-commerces e apps do zero**, com design moderno e excelente performance.  
