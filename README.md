@@ -1,9 +1,8 @@
-# 👋 Olá, eu sou [Seu Nome]  
+# 👋 Olá, eu sou Ivaldo Almeida  
 
-![Banner de boas-vindas](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDd3aDJtbzZpazM0cTJld3hxMTloM2doZWhsZWx3b281bDVubmRuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWD3CtcudWL28/giphy.gif)  
+![Banner de boas-vindas](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
 
-Sou **designer e programador fullstack**, apaixonado por criar produtos digitais modernos e funcionais. 💻✨  
-Transformo ideias em **sites, e-commerces e apps do zero**, com design moderno e excelente performance.  
+Sou **designer e programador fullstack**, transformando ideias em **sites, e-commerces e apps do zero** com design moderno e performance máxima. 💻✨  
 
 ---
 
@@ -35,6 +34,13 @@ Transformo ideias em **sites, e-commerces e apps do zero**, com design moderno e
   </a>
 </p>
 
+<p align="center">
+  <i>Prévia dos projetos:</i><br>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Preview projeto 1" width="200" />&nbsp;
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" alt="Preview projeto 2" width="200" />&nbsp;
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Preview projeto 3" width="200" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats  
@@ -42,6 +48,16 @@ Transformo ideias em **sites, e-commerces e apps do zero**, com design moderno e
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ivaldopt&show_icons=true&theme=dracula&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivaldopt&layout=compact&theme=dracula&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Conquistas & Certificados  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Curso-NestJS-blue?style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Curso-React-red?style=for-the-badge&logo=react&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Certificado-Figma-black?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -55,7 +71,7 @@ Transformo ideias em **sites, e-commerces e apps do zero**, com design moderno e
   <a href="https://instagram.com/seu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:ivaldoalmeida.pt@dominio.com" target="_blank">
+  <a href="mailto:seuemail@dominio.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
